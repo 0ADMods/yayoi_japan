@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <Entity parent="civ/yayo|merc_inf|template_unit_infantry_melee_pikeman">
+  <Identity>
+    <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
+    <SelectionGroupName>units/yayo/infantry_pikeman_b</SelectionGroupName>
+    <GenericName>Ainu Hunter Long spear</GenericName>
+    <SpecificName>Isonbe</SpecificName>
+    <Icon>units/yayo/infantry_longspear_merc.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/yayo/infantry_pikeman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/yayoi/infantry_pikeman_b.xml</Actor>
+  </VisualActor>
+</Entity>

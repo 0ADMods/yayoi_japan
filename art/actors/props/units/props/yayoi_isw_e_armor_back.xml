@@ -2,8 +2,14 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Base">
+    <variant frequency="1" name="Base_1">
       <mesh>props/yayoi_isw_e_armor_back.dae</mesh>
+      <textures>
+        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+      </textures>
+    </variant>
+        <variant frequency="1" name="Base_2">
+      <mesh>props/yayoi_isw_e_armor_back_2.dae</mesh>
       <textures>
         <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
       </textures>

@@ -1,0 +1,16 @@
+{
+	"genericName": "Unlock Korean Merc Cavalry",
+	"description": "Unlocked mercenary Korean Cavalry in Civic Center.",
+	"cost": {
+		"food": 200
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "helmet_corinthian_crest.png",
+	"researchTime": 50,
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_arsenal">
+  <Identity>
+    <Civ>yayo</Civ>
+  </Identity>
+<!--   <ProductionQueue>
+    <Entities datatype="tokens">
+      units/{civ}/siege_ballista_packed
+      units/{civ}/siege_scorpio_packed
+      units/{civ}/siege_oxybeles_packed
+      units/{civ}/siege_lithobolos_packed
+      units/{civ}/siege_polybolos_packed
+      units/{civ}/siege_ram
+      units/{civ}/siege_tower
+    <Technologies datatype="tokens">
+      siege_attack
+      siege_cost_time
+      siege_health
+      siege_pack_unpack
+    </Technologies>
+  </ProductionQueue>
+ -->  <VisualActor>
+    <Actor>structures/yayoi/arsenal.xml</Actor>
+  </VisualActor>
+</Entity>
