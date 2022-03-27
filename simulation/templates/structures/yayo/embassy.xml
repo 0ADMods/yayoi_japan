@@ -11,6 +11,7 @@
     <Civ>yayo</Civ>
     <GenericName>Barracks</GenericName>
     <SpecificName>Sikömiba</SpecificName>
+    <Icon>structures/military_settlement.png</Icon>
   </Identity>
 <!--   <Obstruction>
     <Static width="22.0" depth="23.0"/>
