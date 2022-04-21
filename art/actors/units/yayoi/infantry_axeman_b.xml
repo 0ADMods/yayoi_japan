@@ -8,16 +8,16 @@
         <prop actor="props/units/weapons/yayoi_axe_01.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_b.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_isw_b_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_sleeves.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
     </variant>
     <variant frequency="1" name="Short Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_short_sleeves.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
     </variant>
   </group>
   <group>

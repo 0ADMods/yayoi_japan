@@ -9,16 +9,16 @@
         <prop actor="props/units/shields/yayoi_shield_tedate.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_isw_a_3.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_sleeves.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
     </variant>
     <variant frequency="1" name="Short Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_short_sleeves.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
     </variant>
   </group>
   <group>
