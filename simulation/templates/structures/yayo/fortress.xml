@@ -16,6 +16,7 @@
   </VisualActor>
   <Trainer>
     <Entities datatype="tokens">
+      units/{civ}/champion_infantry_axeman
       units/{civ}/champion_infantry
     </Entities>
   </Trainer>
