@@ -6,6 +6,6 @@
     <Icon>units/yayo/hero_wousu.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/yayoi/infantry_spearman_e.xml</Actor>
+    <Actor>units/yayoi/hero_wousu_infantry_swordsman.xml</Actor>
   </VisualActor>
 </Entity>

@@ -5,6 +5,7 @@
     <variant frequency="1" name="Base">
       <props>
         <prop actor="props/units/heads/yayoi_isw_e.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/yayoi_hero_helmet.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/yayoi_sword_01.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
