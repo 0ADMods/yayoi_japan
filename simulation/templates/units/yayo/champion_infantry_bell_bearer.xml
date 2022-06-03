@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_trumpeter">
   <Auras datatype="tokens">
-    units/carnyx
+    units/yayo_bell_bearer
   </Auras>
   <Identity>
     <Civ>yayo</Civ>
@@ -10,6 +10,6 @@
     <Icon>units/gaul_champion_swordsman_carnyx.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/yayoi/infantry_bell_c.xml</Actor>
+    <Actor>units/yayoi/infantry_bell_bearer.xml</Actor>
   </VisualActor>
 </Entity>

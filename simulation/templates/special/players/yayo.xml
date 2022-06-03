@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_player">
-  <!-- <Auras datatype="tokens">
-    teambonuses/cart_player_teambonus
-  </Auras> -->
+  <Auras datatype="tokens">
+    teambonuses/yayo_player_teambonus
+  </Auras>
   <Identity>
     <Civ>yayo</Civ>
     <GenericName>Wakoku</GenericName>
-    <History>The Japaneses.</History>
+    <History> Distinguishing characteristics of the Japaneses Yayoi period include the appearance of 
+    new Yayoi pottery styles and the start of an intensive rice agriculture in paddy fields. A hierarchical social 
+    class structure dates from this period and has its origin in China. Techniques in metallurgy based on the use of
+     bronze and iron were also introduced from China via Korea to Japan in this period.</History>
     <Icon>emblems/emblem_yayo.png</Icon>
   </Identity>
   <Player>

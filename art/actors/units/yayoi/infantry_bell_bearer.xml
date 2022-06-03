@@ -20,7 +20,11 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Idle"/>
+    <variant frequency="100" name="Idle">
+      <animations>
+        <animation file="biped/citizen/pray.dae" name="idle" speed="50"/>
+      </animations>
+    </variant>
     <variant file="biped/carry_food.xml"/>
     <variant file="biped/carry_meat.xml"/>
     <variant file="biped/carry_wood.xml"/>
