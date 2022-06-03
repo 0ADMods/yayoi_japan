@@ -11,6 +11,12 @@
   <Obstruction>
     <Static width="22.0" depth="24.0"/>
   </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      fishing_culture
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/yayoi/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>

@@ -11,6 +11,12 @@
   <Obstruction>
     <Static width="27.0" depth="27.0"/>
   </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      trade_copper_bells
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/yayoi/market.xml</Actor>
   </VisualActor>

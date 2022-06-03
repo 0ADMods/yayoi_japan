@@ -4,12 +4,12 @@
   <group>
     <variant file="biped/base_slinger_ready.xml">
       <props>
-        <prop actor="props/units/heads/head_jomon.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/yayoi_isw_e.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/sling.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/slingrock.xml" attachpoint="projectile"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi/jomon_cloth_a.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_isw_b_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

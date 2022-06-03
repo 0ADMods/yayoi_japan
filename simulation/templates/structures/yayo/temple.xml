@@ -14,7 +14,13 @@
   <Obstruction>
     <Static width="21" depth="22"/>
   </Obstruction>
-    <Trainer>
+    <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      traditional_rituals
+    </Technologies>
+  </Researcher>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_bell_bearer
     </Entities>

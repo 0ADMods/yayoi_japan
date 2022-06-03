@@ -17,7 +17,7 @@
   </Obstruction>
     <Trainer>
     <Entities datatype="tokens">
-      -units/{civ}/infantry_slinger_b
+      units/{civ}/infantry_slinger_b
     </Entities>
   </Trainer>
   <VisualActor>
