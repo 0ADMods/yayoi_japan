@@ -6,10 +6,10 @@
   <Identity>
     <Civ>yayo</Civ>
     <GenericName>Wakoku</GenericName>
-    <History> Distinguishing characteristics of the Japaneses Yayoi period include the appearance of 
-    new Yayoi pottery styles and the start of an intensive rice agriculture in paddy fields. A hierarchical social 
-    class structure dates from this period and has its origin in China. Techniques in metallurgy based on the use of
-     bronze and iron were also introduced from China via Korea to Japan in this period.</History>
+    <History> The Yayoi period (~1000 BC - 300 AD) is the Bronze Age of ancient Japan. Civilization is 
+    an assimilation of the Jōmon hunter-gatherer culture and the Chinese influence of rice-planting and
+     metallurgy.
+</History>
     <Icon>emblems/emblem_yayo.png</Icon>
   </Identity>
   <Player>

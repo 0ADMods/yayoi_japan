@@ -13,7 +13,7 @@
     <variant frequency="1" name="Skirt-Long_a">
       <mesh>skeletal/new/f_dress.dae</mesh>
       <textures>
-        <texture file="skeletal/yayoi_female_02.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_female_himiko.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
