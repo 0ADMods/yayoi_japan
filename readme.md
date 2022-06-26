@@ -1,17 +1,17 @@
-# Ancient Civ Japanese Wakoku (periodo Yayoi)- 0 A.D. Civilization Mod
+# Ancient Civ Japanese Wakoku (Yayoi period)- 0 A.D. Civilization Mod
 
-Japanese civilization time period is  300 ac to 100 dc.
+Japanese civilization time period is  300 B.C. to 100 A.D.
 
-<img src="./screenshot0008.png.b8f1f29a5077457c52ad1b9ea57e9d86.png" alt="imagem">
+<img src="./screenshot0008.png.b8f1f29a5077457c52ad1b9ea57e9d86.png" alt="Image depicting some Yayoi period soldiers in front of a barracks building.">
 
-> This co-developed mod for the openSorce game 0ad Empires Ascends
+> This mod is co-developed for the open source game 0 A.D: Empires Ascendant.
 
 ### Adjustments and improvements
 
 The project is still in development and the next updates will focus on the following tasks:
 
-- [x] Melhoria nos modelos 3D
-- [ ] Novas texturas para as unidades.
+- [x] Improving 3D Models.
+- [ ] New textures for units.
 
 ## Download
 
@@ -43,13 +43,10 @@ We could always use another helping hand with this project. There are several wa
 
 ## 🤝 Contributors
 
-* Carltonus ; translation and historical research,
-* LionKasen : 2d art,
-* Stanlinist : 2d/3d art,
-* Welton Lopes (Lopess) : Code and 2d/3d art,
-* RadioTrainin : 2d art.
+* Carltonus: translation and historical research,
+* Lion.Kansen: 2D art,
+* Stan`: 2D/3D art,
+* Welton Lopes (Lopess): Code and 2D/3D art,
+* RadioTraining: 2D art.
 
- And all members forum in:https://wildfiregames.com/forum/topic/20122-japan-in-the-period-of-0-ad/ 
-
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+ And all members that contributed to the forum thread [here](https://wildfiregames.com/forum/topic/20122-japan-in-the-period-of-0-ad/).
