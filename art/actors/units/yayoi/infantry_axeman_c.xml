@@ -6,6 +6,7 @@
       <props>
         <prop actor="props/units/heads/yayoi_isw_e.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/yayoi_2_axe.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/helmets/yayoi_helmet_champion_axeman.xml" attachpoint="helmet"/>        
         <prop actor="props/units/props/yayoi_isw_e_armor_back.xml" attachpoint="back"/>
       </props>
       <textures>
