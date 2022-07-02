@@ -30,7 +30,11 @@
 		},
 		{
 			"Template": "units/yayo/infantry_archer_b",
-			"Count": 4
+			"Count": 2
+		},
+		{
+			"Template": "units/yayo/cavalry_archer_b",
+			"Count": 1
 		},
 		{
 			"Template": "units/yayo/champion_infantry_bell_bearer",
@@ -55,11 +59,11 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/units/default_cavalry": "units/yayo/infantry_axeman_b",
+		"skirmish/units/default_cavalry": "units/yayo/cavalry_archer_b",
 		"skirmish/units/default_infantry_melee_b": "units/yayo/infantry_axeman_b",
 		"skirmish/units/default_infantry_ranged_b": "units/yayo/infantry_archer_b",
 		"skirmish/units/special_starting_unit": "units/yayo/champion_infantry_bell_bearer",
-	    "skirmish/units/default_ship_trireme":"units/yayo/ship_bireme"
+	  "skirmish/units/default_ship_trireme":"units/yayo/ship_bireme"
 	},
 	"SelectableInGameSetup": true
 }
