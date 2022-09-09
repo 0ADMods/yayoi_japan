@@ -3,19 +3,19 @@
   <castshadow/>
   <group>
     <variant file="biped/base_carnyx.xml">
+      <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/heads/yayoi_isw_e.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/headband_generic.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/yayoi_sword_01.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/yayoi_sino.xml" attachpoint="weapon_L"/>
-        <prop actor="props/units/props/yayoi_isw_e_armor_back.xml" attachpoint="back"/>
       </props>
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="2a">
-      <mesh>skeletal/new/m_tunic_pants_short_sleeves.dae</mesh>
+    <variant frequency="1" name="Noble-Cuirass-01-03">
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi/noble_cuirass_01_03.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

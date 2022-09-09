@@ -3,23 +3,38 @@
   <castshadow/>
   <group>
     <variant file="biped/base_spearman_relax.xml">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/yayoi_isw_e.xml" attachpoint="head"/>
         <prop actor="props/units/shields/yayoi_shield_tedate.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/yayoi_spear.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/props/yayoi_isw_e_armor_back.xml" attachpoint="back"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_sleeves.dae</mesh>
+    <variant frequency="1" name="Cuirass-01-01">
+      <textures>
+        <texture file="skeletal/yayoi/cuirass_01_01.png" name="baseTex"/>
+      </textures>
     </variant>
-    <variant frequency="1" name="Short Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_short_sleeves.dae</mesh>
+    <variant frequency="1" name="Cuirass-01-03">
+      <textures>
+        <texture file="skeletal/yayoi/cuirass_01_03.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Noble-Cuirass-01-01">
+      <textures>
+        <texture file="skeletal/yayoi/noble_cuirass_01_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Noble-Cuirass-01-03">
+      <props>
+        <prop attachpoint="back"/>
+      </props>
+      <textures>
+        <texture file="skeletal/yayoi/noble_cuirass_01_03.png" name="baseTex"/>
+      </textures>
     </variant>
   </group>
   <group>

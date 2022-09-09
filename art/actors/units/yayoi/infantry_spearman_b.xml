@@ -8,17 +8,26 @@
         <prop actor="props/units/shields/yayoi_shield_tedate.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/yayoi_spear.xml" attachpoint="weapon_R"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_b.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Short Sleeves">
-      <mesh>skeletal/new/m_tunic_pants_short_sleeves.dae</mesh>
+    <variant frequency="1" name="Tunic-01-01">
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/yayoi/tunic_01_01.png" name="baseTex"/>
+      </textures>
     </variant>
-    <variant frequency="1" name="Short Short Sleeves">
+    <variant frequency="1" name="Tunic-02-01">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/yayoi/tunic_02_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Tunic-Pants-01-01">
       <mesh>skeletal/new/m_tunic_pants_short_short_sleeves.dae</mesh>
+      <textures>
+        <texture file="skeletal/yayoi/tunic_pants_01_01.png" name="baseTex"/>
+      </textures>
     </variant>
   </group>
   <group>
