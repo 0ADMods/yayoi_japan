@@ -1,9 +1,9 @@
 {
 	"name": "yayoi_japan",
 	"label": "yayoi Japan",
-	"version": "1.0.0",
+	"version": "0.26.0",
 	"url": "https://github.com/0ADMods/yayoi_japan",
 	"description": "Adds Yayoi Japanese civilization to 0 A.D.",
-	"dependencies": ["0ad>=0.0.25"],
+	"dependencies": ["0ad=0.0.26"],
 	"type": "Factions"
 }
