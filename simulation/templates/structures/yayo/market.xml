@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_economic_market">
   <Footprint>
-    <Square width="29.0" depth="29.0"/>
+    <Square width="30" depth="32"/>
     <Height>8.0</Height>
   </Footprint>
   <Identity>
@@ -9,9 +9,8 @@
     <SpecificName>Tianquiztli</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="27.0" depth="27.0"/>
+    <Static width="28" depth="30"/>
   </Obstruction>
-  <ProductionQueue/>
   <Researcher>
     <Technologies datatype="tokens">
       trade_copper_bells

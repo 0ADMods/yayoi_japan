@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_temple">
   <Footprint>
-    <Square width="22" depth="23"/>
+    <Square width="26" depth="20"/>
     <Height>12.0</Height>
   </Footprint>
   <Health>
@@ -12,9 +12,8 @@
     <SpecificName>Yasirö</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="21" depth="22"/>
+    <Static width="24" depth="18"/>
   </Obstruction>
-    <ProductionQueue/>
   <Researcher>
     <Technologies datatype="tokens">
       traditional_rituals
@@ -27,6 +26,6 @@
   </Trainer>
   <VisualActor>
     <Actor>structures/yayoi/temple.xml</Actor>
-    <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
+    <FoundationActor>structures/fndn_6x5.xml</FoundationActor>
   </VisualActor>
 </Entity>
