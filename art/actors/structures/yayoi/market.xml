@@ -2,13 +2,14 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Scout_Tower">
-      <animations>
-        <animation event="0.5" load="0" name="attack_ranged" speed="100"/>
-      </animations>
+    <variant frequency="1" name="Yayoi Market">
       <mesh>structural/yayoi_market.dae</mesh>
       <props>
         <prop actor="props/structures/decals/spart_5x5.xml" attachpoint="root"/>
+        <prop actor="structures/ptolemies/stall_big.xml" attachpoint="root"/>
+        <prop actor="structures/ptolemies/stall_small_a.xml" attachpoint="stall_right"/>
+        <prop actor="structures/ptolemies/stall_small_b.xml" attachpoint="stall_top"/>
+        <prop actor="structures/ptolemies/stall_small_b.xml" attachpoint="stall_bottom"/>
       </props>
       <textures>
         <texture file="structural/yayoi_struct.png" name="baseTex"/>
@@ -34,7 +35,7 @@
         <prop actor="particle/destruction_smoke_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small_gray.xml" attachpoint="root"/>
-        <prop actor="props/structures/decals/dirt_1x1.xml" attachpoint="root"/>
+        <prop actor="structures/ptolemies/stall_big.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
