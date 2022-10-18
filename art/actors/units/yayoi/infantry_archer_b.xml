@@ -9,9 +9,6 @@
         <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_bow"/>
         <prop actor="props/units/quiver_back_bamboo.xml" attachpoint="back"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_b_1.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>

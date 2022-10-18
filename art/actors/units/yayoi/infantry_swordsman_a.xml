@@ -9,7 +9,7 @@
         <prop actor="props/units/shields/yayoi_shield_tedate.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi/cuirass_01_06.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

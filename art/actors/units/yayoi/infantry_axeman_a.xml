@@ -9,9 +9,6 @@
         <prop actor="props/units/weapons/yayoi_axe_01.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/yayoi_shield_tedate.xml" attachpoint="shield"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_a_3.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>

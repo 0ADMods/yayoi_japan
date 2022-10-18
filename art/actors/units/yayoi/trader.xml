@@ -10,7 +10,7 @@
         <prop actor="props/units/weapons/trader_staff.xml" attachpoint="weapon_L"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_b_1.png" name="baseTex"/>
+        <texture file="skeletal/yayoi/tunic_pants_02_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

@@ -9,9 +9,6 @@
         <prop actor="props/units/weapons/sling.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/slingrock.xml" attachpoint="projectile"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_a_1.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>

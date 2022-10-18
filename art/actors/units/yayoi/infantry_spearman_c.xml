@@ -11,9 +11,6 @@
         <prop actor="props/units/weapons/yayoi_spear.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/props/yayoi_isw_e_armor_back.xml" attachpoint="back"/>
       </props>
-      <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
-      </textures>
     </variant>
   </group>
   <group>

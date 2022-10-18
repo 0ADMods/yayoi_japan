@@ -8,7 +8,7 @@
         <prop actor="props/units/weapons/sarissa.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi/jomon_cloth_a.png" name="baseTex"/>
+        <texture file="skeletal/yayoi/jomon_cloth_01_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
