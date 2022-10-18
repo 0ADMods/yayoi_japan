@@ -2,15 +2,10 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Scout_Tower">
-      <animations>
-        <animation event="0.5" load="0" name="attack_ranged" speed="100"/>
-      </animations>
+    <variant frequency="1" name="Forge">
       <mesh>structural/yayoi_forge.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_6x6.xml" attachpoint="root"/>
-        <prop actor="particle/flame.xml" attachpoint="fire"/>
-        <prop actor="particle/smoke_blacksmith.xml" attachpoint="smoke01"/>
       </props>
       <textures>
         <texture file="structural/yayoi_struct.png" name="baseTex"/>
@@ -18,6 +13,16 @@
         <texture file="structural/yayoi_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/yayoi_forge_AO.png" name="aoTex"/>
       </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant name="researching">
+      <props>
+        <prop actor="particle/sparks_blacksmith.xml" attachpoint="smoke01"/>
+        <prop actor="particle/smoke_blacksmith.xml" attachpoint="smoke01"/>
+        <prop actor="particle/flame.xml" attachpoint="fire"/>
+      </props>
     </variant>
   </group>
   <group>
@@ -36,7 +41,6 @@
         <prop actor="particle/destruction_smoke_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small.xml" attachpoint="root"/>
         <prop actor="particle/destruction_dust_small_gray.xml" attachpoint="root"/>
-        <prop actor="props/structures/decals/dirt_1x1.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
