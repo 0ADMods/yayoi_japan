@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="civ/yayo|template_unit_support_female_citizen">
-  <Health>
-    <Max>65</Max>
-  </Health>
   <Identity>
-    <GenericName>Female Citizen</GenericName>
-      <SpecificName>Womina</SpecificName>
+    <SpecificName>Josei</SpecificName>
     <Icon>units/yayo/support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>

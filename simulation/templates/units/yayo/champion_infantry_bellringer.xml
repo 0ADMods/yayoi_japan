@@ -7,7 +7,7 @@
     <Civ>yayo</Civ>
     <GenericName>Champion Bellringer</GenericName>
     <SpecificName>Kanetuki</SpecificName>
-    <Icon>units/gaul_champion_swordsman_carnyx.png</Icon>
+    <Icon>units/yayo/champion_infantry_bellringer.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/yayoi/infantry_bell_bearer.xml</Actor>

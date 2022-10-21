@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <actor version="1">
   <castshadow/>
   <group>
     <variant>
-      <mesh>skeletal/horse.dae</mesh>
+      <mesh>skeletal/horse_persian.dae</mesh>
       <props>
-        <prop actor="units/yayoi/cavalry_archer_e_r.xml" attachpoint="rider"/>
+        <prop actor="units/han/cavalry_archer_e_r.xml" attachpoint="rider"/>
         <prop actor="props/horse/cav_rein_leather.xml" attachpoint="root"/>
         <prop actor="props/horse/cav_blanket_leather.xml" attachpoint="root"/>
         <prop actor="props/horse/chest_colorband_01.xml" attachpoint="root"/>
@@ -20,12 +20,12 @@
     <variant file="quadraped/horse/gray.xml" frequency="1" name="gray"/>
   </group>
   <group>
-    <variant file="quadraped/base_horse_archer.xml" name="Archer-Horse" frequency="1"/>
+    <variant file="quadraped/base_horse_archer.xml" frequency="1" name="Archer-Horse"/>
     <variant file="quadraped/base_horse_death.xml"/>
     <variant file="quadraped/base_horse_run.xml"/>
     <variant file="quadraped/base_horse_gather_meat.xml" name="gather_meat">
       <props>
-        <prop actor="units/yayoi/cavalry_archer_e_r.xml" attachpoint="rider_R"/>
+        <prop actor="units/han/cavalry_archer_e_r.xml" attachpoint="rider_R"/>
       </props>
     </variant>
   </group>

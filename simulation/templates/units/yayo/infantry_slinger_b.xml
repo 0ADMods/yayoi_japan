@@ -4,7 +4,7 @@
     <SelectionGroupName>units/yayo/infantry_slinger_b</SelectionGroupName>
     <GenericName>Infantry Slinger</GenericName>
     <SpecificName>Isinag ë</SpecificName>
-    <Icon>units/yayo/slinger.png</Icon>
+    <Icon>units/yayo/infantry_slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/yayo/infantry_slinger_a</Entity>

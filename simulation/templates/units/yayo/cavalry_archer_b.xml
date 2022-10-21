@@ -5,7 +5,6 @@
     <SelectionGroupName>units/korean/cavalry_archer_b</SelectionGroupName>
     <GenericName>Mercenary Cavalry Korean</GenericName>
     <SpecificName>Gōng Qíbīng</SpecificName>
-
     <Icon>units/yayo/cavalry_archer_merc.png</Icon>
     <RequiredTechnology>unlock_mercenary_cavalry</RequiredTechnology>
   </Identity>

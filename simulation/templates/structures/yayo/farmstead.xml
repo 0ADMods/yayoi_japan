@@ -4,6 +4,9 @@
     <Square width="14" depth="14"/>
     <Height>6.0</Height>
   </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
+  </Health>
   <Identity>
     <Civ>yayo</Civ>
     <SpecificName>Makïba</SpecificName>
@@ -13,5 +16,6 @@
   </Obstruction>
   <VisualActor>
     <Actor>structures/yayoi/farmstead.xml</Actor>
+    <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
   </VisualActor>
 </Entity>

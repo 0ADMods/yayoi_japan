@@ -8,8 +8,9 @@
   <Identity>
     <Civ>yayo</Civ>
     <GenericName>Champion Axeman</GenericName>
-    <SpecificName></SpecificName>
-    <Icon>units/sele_infantry_swordsman.png</Icon>
+    <SpecificName>Erītosorujā</SpecificName>
+    <Icon>units/yayo/champion_infantry_axeman.png</Icon>
+    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <VisualActor>
     <Actor>units/yayoi/infantry_axeman_c.xml</Actor>

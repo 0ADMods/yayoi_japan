@@ -15,11 +15,11 @@
   <Obstruction>
     <Static width="24.0" depth="23.0"/>
   </Obstruction>
-    <Trainer>
-    <Entities datatype="tokens">
-      units/{civ}/infantry_slinger_b
-    </Entities>
-  </Trainer>
+  <Researcher>
+    <Technologies datatype="tokens">
+      archer_attack_spread
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/yayoi/range.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
