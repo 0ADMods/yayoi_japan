@@ -32,6 +32,7 @@
       units/{civ}/siege_polybolos_packed
       units/{civ}/siege_ram
       units/{civ}/siege_tower
+    </Entities>
   </Trainer>
   <VisualActor>
     <Actor>structures/yayoi/arsenal.xml</Actor>
