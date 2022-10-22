@@ -11,7 +11,7 @@
 		]
 	},
 	"requirementsTooltip": "Unlocked in Village Phase.",
-	"icon": "helmet_corinthian_crest.png",
+	"icon": "horse_trainer.png",
 	"researchTime": 50,
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
