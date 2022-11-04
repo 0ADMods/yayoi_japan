@@ -5,6 +5,7 @@
     <GenericName>Infantry Slinger</GenericName>
     <SpecificName>Isinag ë</SpecificName>
     <Icon>units/yayo/infantry_slinger.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/yayo/infantry_slinger_a</Entity>
