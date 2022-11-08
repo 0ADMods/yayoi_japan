@@ -2,7 +2,7 @@
 <Entity parent="civ/yayo|template_unit_champion_infantry_swordsman">
   <Identity>
     <GenericName>Champion Swordsman</GenericName>
-    <SpecificName>Turuki Tupamönö</SpecificName>
+    <SpecificName>Turuki nö Tupamönö</SpecificName>
      <Icon>units/yayo/champion_infantry_swordsman.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
