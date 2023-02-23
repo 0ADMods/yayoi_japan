@@ -4,7 +4,11 @@
     <GenericName>Champion Swordsman</GenericName>
     <SpecificName>Turuki nö Tupamönö</SpecificName>
      <Icon>units/yayo/champion_infantry_swordsman.png</Icon>
-    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">
+        unlock_champion_infantry
+      </Techs>
+    </Requirements>
   </Identity>
   <VisualActor>
     <Actor>units/yayoi/infantry_swordsman_c.xml</Actor>

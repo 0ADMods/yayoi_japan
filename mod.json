@@ -1,9 +1,9 @@
 {
 	"name": "yayoi_japan",
 	"label": "Yamatai Japanese",
-	"version": "0.26.0",
+	"version": "0.27.0",
 	"url": "https://github.com/0ADMods/yayoi_japan",
 	"description": "Bring the Yamatai (aka Yayoi) Japanese civilization to 0 A.D.",
-	"dependencies": ["0ad>=0.0.26"],
+	"dependencies": ["0ad>=0.0.27"],
 	"type": "Factions"
 }

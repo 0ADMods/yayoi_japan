@@ -6,7 +6,11 @@
     <GenericName>Mercenary Cavalry Korean</GenericName>
     <SpecificName>Umanöri Mësikakapë</SpecificName>
     <Icon>units/yayo/cavalry_archer_merc.png</Icon>
-    <RequiredTechnology>unlock_mercenary_cavalry</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">
+        unlock_mercenary_cavalry
+      </Techs>
+    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/yayo/cavalry_archer_a</Entity>
