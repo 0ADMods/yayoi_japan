@@ -5,7 +5,11 @@
     <GenericName>Infantry Slinger</GenericName>
     <SpecificName>Tabutenagë</SpecificName>
     <Icon>units/yayo/infantry_slinger.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">
+        phase_town
+      </Techs>
+    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/yayo/infantry_slinger_a</Entity>
