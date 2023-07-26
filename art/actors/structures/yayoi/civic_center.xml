@@ -5,7 +5,7 @@
     <variant frequency="1" name="Civic Center" file="structures/defensive_building.xml">
       <mesh>structural/yayoi_cc.dae</mesh>
       <props>
-        <prop actor="props/structures/decals/spart_5x5.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_7x5.xml" attachpoint="root"/>
       </props>
       <textures>
         <texture file="structural/yayoi_struct.png" name="baseTex"/>

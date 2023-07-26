@@ -5,7 +5,7 @@
     <variant frequency="1" name="Yayoi Market">
       <mesh>structural/yayoi_market.dae</mesh>
       <props>
-        <prop actor="props/structures/decals/spart_5x5.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_6x6.xml" attachpoint="root"/>
         <prop actor="structures/ptolemies/stall_big.xml" attachpoint="root"/>
         <prop actor="structures/ptolemies/stall_small_a.xml" attachpoint="stall_right"/>
         <prop actor="structures/ptolemies/stall_small_b.xml" attachpoint="stall_top"/>
