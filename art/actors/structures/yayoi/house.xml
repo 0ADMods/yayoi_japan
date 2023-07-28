@@ -3,9 +3,6 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="base">
-      <props>
-        <prop actor="props/structures/decals/spart_3x3.xml" attachpoint="root"/>
-      </props>
       <textures>
         <texture file="structural/yayoi_struct.png" name="baseTex"/>
         <texture file="structural/yayoi_struct_spec.png" name="specTex"/>
@@ -16,24 +13,36 @@
   <group>
     <variant frequency="1" name="house a">
       <mesh>structural/yayoi_house_1.dae</mesh>
+      <props>
+        <prop actor="props/structures/decals/dirt_4x3.xml" attachpoint="root"/>
+      </props>
       <textures>
       	        <texture file="structural/ao/yayoi_house_1_AO.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="house b">
       <mesh>structural/yayoi_house_2.dae</mesh>
+      <props>
+        <prop actor="props/structures/decals/dirt_3x4.xml" attachpoint="root"/>
+      </props>
       <textures>
       	        <texture file="structural/ao/yayoi_house_2_AO.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="house c">
       <mesh>structural/yayoi_house_3.dae</mesh>
+      <props>
+        <prop actor="props/structures/decals/dirt_4x3.xml" attachpoint="root"/>
+      </props>
       <textures>
       	        <texture file="structural/ao/yayoi_house_3_AO.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="house d">
       <mesh>structural/yayoi_house_4.dae</mesh>
+      <props>
+        <prop actor="props/structures/decals/dirt_4x3.xml" attachpoint="root"/>
+      </props>
       <textures>
                 <texture file="structural/ao/yayoi_house_4_AO.png" name="aoTex"/>
       </textures>

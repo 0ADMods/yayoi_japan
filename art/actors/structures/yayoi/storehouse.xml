@@ -5,7 +5,7 @@
     <variant frequency="1" name="Storehouse">
       <mesh>structural/yayoi_storehouse.dae</mesh>
       <props>
-        <prop actor="props/structures/decals/spart_3x3.xml" attachpoint="root"/>
+        <prop actor="props/structures/decals/dirt_4x3.xml" attachpoint="root"/>
         <prop actor="props/structures/hellenes/storehouse_wood.xml" attachpoint="wood"/>
         <prop actor="props/special/eyecandy/blocks_sandstone_pile_b.xml" attachpoint="stone"/>
       </props>
